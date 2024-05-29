@@ -1,0 +1,24 @@
+---
+title: "PHYS 308"
+format: 
+  html:
+    link-external-newwindow: true
+editor: visual
+jupyter: python3
+---
+
+# PHYS 308 Introductory Quantum Mechanics
+
+![xkcd: Quantum](https://imgs.xkcd.com/comics/quantum.png)
+
+From [xkcd.com](https://xkcd.com/1861/)
+
+## Course Description
+
+An investigation of the basic principles of quantum mechanics in the Schrödinger representation and the application of these principles to tunneling, the harmonic oscillator, and the hydrogen atom. Basic theoretical concepts such as Hermitian operators, Ehrenfest’s theorem, commutation relations, and uncertainty principles are developed as the course proceeds.  
+
+Normally offered every year, fall
+
+## Prerequisites
+
+PHYS 301 and s31.
